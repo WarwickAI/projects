@@ -3,6 +3,14 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
+parts:
+- caption: Courses
+  chapters:
+  - file: wai102/wai102
+    sections:
+    - file: wai102/overview
+    - file: wai102/first_steps
+    - file: wai102/grad
+- caption: Tutorials
+  chapters:
+  - file: wai102/wai102

@@ -11,6 +11,3 @@ parts:
     - file: wai102/overview
     - file: wai102/first_steps
     - file: wai102/grad
-- caption: Tutorials
-  chapters:
-  - file: wai102/wai102

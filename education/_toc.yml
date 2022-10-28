@@ -10,4 +10,6 @@ parts:
     sections:
     - file: wai102/overview
     - file: wai102/first_steps
-    - file: wai102/grad
+    - file: wai102/gradients
+    - file: wai102/nn
+    - file: wai102/backpropagation

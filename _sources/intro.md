@@ -1,16 +1,7 @@
 # Welcome
 
-This is a small sample book to give you a feel for how book content is
-structured.
+This website is the home of the courses and tutorials of Warwick AI,
+the University of Warwick Artificial Intelligence Society.
 
-:::{note}
-Here is a note!
-:::
-
-And here is a code block:
-
-```
-e = mc^2
-```
-
-Check out the content pages bundled with this sample book to see more.
+You can find out more about our courses and tutorials on the sidebar or learn
+more about our other initiatives at [warwick.ai](https://warwick.ai/).

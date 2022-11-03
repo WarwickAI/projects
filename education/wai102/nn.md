@@ -49,5 +49,5 @@ There are many other activation functions e.g. RELu, tanh, ... each with differe
 ```{note}
 This section is heavily inspired by the introduction to artificial
 neurons from the CS231n course at Stanford. If you're looking to supplement
-your understanding we recommend taking a look [here](https://cs231n.github.io/neural-networks-1/)
+your understanding we recommend taking a look [here](https://cs231n.github.io/neural-networks-1/).
 ```

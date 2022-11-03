@@ -13,14 +13,12 @@ $$
 $$
 
 The gradient of a function tells us how much it changes if we slightly
-alter it's inputs. Let's look at a concrete example.
+alter it's inputs. Let's look at a concrete example with a function $f(x) = 2x^2 + 10$.
 
 $$
-f(x) = 2x^2 + 10
-
-f(5) = 60
-
-f(5 + 0.0000001) = 60.000002
-
-f'(5) = \frac{0.000002}{0.0000001} = 2
+\begin{align*}
+f(5) &= 60\\
+f(5 + 0.0000001) &= 60.000002\\
+f'(5) &= \frac{0.000002}{0.0000001} = 2
+\end{align*}
 $$

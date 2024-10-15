@@ -1,13 +1,13 @@
 #######################################################################################
 # A default configuration that will be loaded for all jupyter books
-# See the documentation for help and more options: 
+# See the documentation for help and more options:
 # https://jupyterbook.org/customize/config.html
 
 #######################################################################################
 # Book settings
-title                       : Warwick AI Education  # The title of the book. Will be placed in the left navbar.
+title                       : Warwick AI Projects  # The title of the book. Will be placed in the left navbar.
 author                      : Warwick AI  # The author of the book
-copyright                   : "2022"  # Copyright year to be placed in the footer
+copyright                   : "2024"  # Copyright year to be placed in the footer
 logo                        : logo.png  # A path to the book logo
 
 # Force re-execution of notebooks on each build.
@@ -26,8 +26,8 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/warwickai/education  # Online location of your book
-  path_to_book: education  # Optional path to your book, relative to the repository root
+  url: https://github.com/warwickai/projects  # Online location of your book
+  path_to_book: projects  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
 # Add GitHub buttons to your book

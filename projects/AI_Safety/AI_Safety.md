@@ -1,1 +1,1 @@
-# AI_Satefy
+# AI Safety

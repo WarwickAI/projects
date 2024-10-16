@@ -4,11 +4,19 @@
 format: jb-book
 root: intro
 parts:
-- caption: Courses
+- caption: Projects
   chapters:
-  - file: wai102/wai102
+  - file: Past_Projects/Past_Projects
+  - file: Current_Projects
+  - file: Basic_Skills/Basic_Skills
     sections:
-    - file: wai102/overview
-    - file: wai102/nn
-    - file: wai102/gradients
-    - file: wai102/backpropagation
+    - file: Basic_Skills/Project1
+    - file: Basic_Skills/Project2
+    - file: Basic_Skills/Project3
+    - file: Basic_Skills/Project4
+  - file: AI_Safety/AI_Safety
+    sections:
+    - file: AI_Safety/Project5
+  - file: Evolutionary/Evolutionary
+    sections:
+    - file: Evolutionary/Project6

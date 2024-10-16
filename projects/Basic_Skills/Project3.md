@@ -7,3 +7,7 @@ Skills to gain:
 - clustering (K-Means, DBSCAN, hierarchical)
 - cluster evaluation using silhouette score
 - determining optimal clusters with elbow method.
+
+Dataset: To be released
+
+Notebook: To be released

@@ -1,5 +1,6 @@
 # Current and Upcoming Projects
 
+## Term 1 Projects
 |Project|Real-world Application|Objective|Skills|Status|
 |---|---|---|---|---|
 |Improving a model's performance without changing the model|Property Value|Improve the performance of a model without changing the model itself by cleaning and pre-processing the dataset, extracting meaningful features, performing hyperparameter tuning and implementing cross-validation.|Data Cleanup, Data Pre-processing, Feature engineering, Feature impact analysis, Hyperparameter tuning,  Cross-validation techniques|[Released](https://projects.warwick.ai/Basic_Skills/Project1.html)|
@@ -8,3 +9,12 @@
 |Data Augmentation and Synthetic Data Generation|Cancer Detection|Develop a system that generates synthetic data or applies data augmentation techniques (e.g., image flips, rotation, cropping) to increase the size and diversity of a training dataset.|Data augmentation techniques, synthetic data generation, enhancing model generalization, working with limited data.|ETA: Term 1|
 |Ethical AI and Bias Mitigation|Bias Mitigation|Analyze a machine learning model (e.g., for loan approval or hiring) for bias against certain groups and implement techniques like fairness-aware learning or adversarial debiasing to mitigate it.|Bias detection and mitigation, fairness-aware learning, applying fairness metrics (demographic parity, equal opportunity), ethical AI considerations.|ETA: Term 1|
 |Optimization and Metaheuristics|Optimization Problems|Use a genetic algorithm or another metaheuristic optimization technique (e.g., simulated annealing) to solve an optimization problem like the Traveling Salesman or Knapsack Problem.|Genetic algorithms, metaheuristic optimization, simulated annealing, designing fitness functions, solving complex optimization problems.|ETA: Term 1|
+
+## Term 2 Projects
+|Project|Real-world Application|Objective|Skills|Status|
+|---|---|---|---|---|
+|Explainable AI|TBD|Train a complex model like a neural network or ensemble method and use explainability techniques (LIME or SHAP) to interpret its predictions|Model interpretability, feature importance, explaining black-box models, ethical AI concerns|ETA: Term 2|
+|Image Classification with Transfer Learning|TBD|Use a pre-trained Convolutional Neural Network (CNN) (e.g., ResNet, VGG) on a new image classification task by fine-tuning the last few layers| Transfer learning, convolutional layers, image augmentation|ETA: Term 2|
+|Generative Models|TBD| Create a Variational Autoencoder to generate new images by learning the underlying distribution of a dataset like MNIST or CIFAR-10| Generative models, VAEs, latent space interpretation, sampling from learned distributions|ETA: Term 2|
+|Sim-to-Real Transfer Learning|Robot Cat|Train a robot control model in a simulated environment and then adapt it to real-world conditions using transfer learning.| Transfer learning, reinforcement learning, simulation-based training, domain adaptation|ETA: Term 2|
+|Bayesian Machine Learning|Medical Diagnosis|mplement a Bayesian neural network to estimate uncertainty in predictions, especially for tasks like medical diagnosis where confidence is crucial|Bayesian inference, uncertainty quantification, Bayesian networks, handling out-of-distribution data|ETA: Term 2|

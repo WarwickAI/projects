@@ -370,7 +370,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
 </div></div>
       
     </div>
@@ -386,6 +388,15 @@ document.write(`
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#term-1-projects">Term 1 Projects</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#term-2-projects">Term 2 Projects</a></li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -397,6 +408,8 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="current-and-upcoming-projects">
 <h1>Current and Upcoming Projects<a class="headerlink" href="#current-and-upcoming-projects" title="Link to this heading">#</a></h1>
+<section id="term-1-projects">
+<h2>Term 1 Projects<a class="headerlink" href="#term-1-projects" title="Link to this heading">#</a></h2>
 <div class="pst-scrollable-table-container"><table class="table">
 <thead>
 <tr class="row-odd"><th class="head"><p>Project</p></th>
@@ -446,6 +459,53 @@ document.write(`
 </tbody>
 </table>
 </div>
+</section>
+<section id="term-2-projects">
+<h2>Term 2 Projects<a class="headerlink" href="#term-2-projects" title="Link to this heading">#</a></h2>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Project</p></th>
+<th class="head"><p>Real-world Application</p></th>
+<th class="head"><p>Objective</p></th>
+<th class="head"><p>Skills</p></th>
+<th class="head"><p>Status</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Explainable AI</p></td>
+<td><p>TBD</p></td>
+<td><p>Train a complex model like a neural network or ensemble method and use explainability techniques (LIME or SHAP) to interpret its predictions</p></td>
+<td><p>Model interpretability, feature importance, explaining black-box models, ethical AI concerns</p></td>
+<td><p>ETA: Term 2</p></td>
+</tr>
+<tr class="row-odd"><td><p>Image Classification with Transfer Learning</p></td>
+<td><p>TBD</p></td>
+<td><p>Use a pre-trained Convolutional Neural Network (CNN) (e.g., ResNet, VGG) on a new image classification task by fine-tuning the last few layers</p></td>
+<td><p>Transfer learning, convolutional layers, image augmentation</p></td>
+<td><p>ETA: Term 2</p></td>
+</tr>
+<tr class="row-even"><td><p>Generative Models</p></td>
+<td><p>TBD</p></td>
+<td><p>Create a Variational Autoencoder to generate new images by learning the underlying distribution of a dataset like MNIST or CIFAR-10</p></td>
+<td><p>Generative models, VAEs, latent space interpretation, sampling from learned distributions</p></td>
+<td><p>ETA: Term 2</p></td>
+</tr>
+<tr class="row-odd"><td><p>Sim-to-Real Transfer Learning</p></td>
+<td><p>Robot Cat</p></td>
+<td><p>Train a robot control model in a simulated environment and then adapt it to real-world conditions using transfer learning.</p></td>
+<td><p>Transfer learning, reinforcement learning, simulation-based training, domain adaptation</p></td>
+<td><p>ETA: Term 2</p></td>
+</tr>
+<tr class="row-even"><td><p>Bayesian Machine Learning</p></td>
+<td><p>Medical Diagnosis</p></td>
+<td><p>mplement a Bayesian neural network to estimate uncertainty in predictions, especially for tasks like medical diagnosis where confidence is crucial</p></td>
+<td><p>Bayesian inference, uncertainty quantification, Bayesian networks, handling out-of-distribution data</p></td>
+<td><p>ETA: Term 2</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -502,6 +562,22 @@ document.write(`
             </div>
             
             
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#term-1-projects">Term 1 Projects</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#term-2-projects">Term 2 Projects</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>

@@ -8,6 +8,7 @@ parts:
   chapters:
   - file: Past_Projects/Past_Projects
   - file: Current_Projects
+  - file: Resources
   - file: Basic_Skills/Basic_Skills
     sections:
     - file: Basic_Skills/Project1
@@ -19,4 +20,4 @@ parts:
     - file: AI_Safety/Project5
   - file: Evolutionary/Evolutionary
     sections:
-    - file: Evolutionary/Project6
+    - file: Evolutionary/Projectt

@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="warwickai" src="https://raw.githubusercontent.com/warwickai/projects/main/projects/logo.png" width=512/>
+  <img alt="warwickai" src="https://raw.githubusercontent.com/warwickai/projects/main/projects/logo.svg" width=512/>
 </p>
 
 # Warwick AI Projects
